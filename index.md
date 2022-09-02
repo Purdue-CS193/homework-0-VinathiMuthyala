@@ -1,9 +1,11 @@
 # Vinathi's First CS193 Homework
 
+```markdown
 - Run by TAs
 - No midterms
 - No finals
 - Learning things that will actually be useful for my major
+```
 
 ## Welcome to GitHub Pages
 
