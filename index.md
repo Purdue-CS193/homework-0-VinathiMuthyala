@@ -1,3 +1,10 @@
+# Vinathi's First CS193 Homework
+
+- Run by TAs
+- No midterms
+- No finals
+- Learning things that will actually be useful for my major
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
